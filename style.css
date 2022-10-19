@@ -1,0 +1,47 @@
+* {
+  font-family: verdana;
+  color: white;
+}
+body{
+    background-color: #111;
+}
+
+h1, h3 {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+a{
+  font-family: verdana;
+  color: #CDC6AE;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+div {
+    text-align: center;
+}
+table {
+    margin: 1em auto;
+    border-collapse: collapse;
+}
+
+select{
+    background-color: #111;
+}
+select:hover{
+    background-color: #111;
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.blocked, .flag {
+    background: #CDC6AE;
+}
+.n1, .n2, .n3, .n4, .n5, .n6, .n7, .n8 {
+    color: white;
+}
